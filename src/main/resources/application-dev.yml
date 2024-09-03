@@ -1,0 +1,8 @@
+server:
+  port: 10086
+
+application:
+  unidbg:
+    dynarmic: false
+    verbose: false
+    async: false
